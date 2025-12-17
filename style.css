@@ -2,14 +2,16 @@
     display:flex;
     flex-direction:row;
     margin:auto;
+    width:80%;
+    background-color: #fdf0d5;
 }
 .leftpanel{
-    width:25%;
+    width:30%;
     padding:20px;
     background-color:#14213d;
     color:white;
 }
 .rightpanel{
-    width:75%;
+    width:70%;
     padding:20px;
 }
